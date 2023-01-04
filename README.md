@@ -33,15 +33,17 @@ Front end:
 <br/><br/>
 Contact me!
 <br />
-<a target="_blank">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/)](https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/)
+<a target="_blank" src="https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/">
+   <img align="left" alt="Node.js"  
+       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a target="_blank">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dossantoshapuc@gmail.com)](mailto:dossantoshapuc@gmail.com)
+<a target="_blank" src="dossantoshapuc@gmail.com">
+   <img align="left" alt="Node.js"  
+       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a target="_blank">
-[![image](https://img.shields.io/badge/-WhatsApp-Green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/5512992133329)](https://wa.me/5512992133329)
+  <a target="_blank" src="https://wa.me/5512992133329">
+   <img align="left" alt="Node.js"  
+       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-
 <br />
 <br /> 
