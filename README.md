@@ -31,19 +31,3 @@ Front end:
        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <br/><br/>
-Contact me!
-<br />
-<a target="_blank" src="https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/">
-   <img align="left" alt="Node.js"  
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a target="_blank" src="dossantoshapuc@gmail.com">
-   <img align="left" alt="Node.js"  
-       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a target="_blank" src="https://wa.me/5512992133329">
-   <img align="left" alt="Node.js"  
-       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-<br />
-<br /> 
