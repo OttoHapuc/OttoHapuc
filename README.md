@@ -5,7 +5,7 @@ I have a passion for unraveling problems, finding different ways of doing an act
 and looking for a little more agility in activities, so... The programming fit like a 
 glove in my experience and job satisfaction.
 I'm currently a student in web development, both front and back,
-below are the languages ​​I master and/or am currently learning (this bio is updated weekly)."
+below are the languages ​​I master and/or am currently learning."
 <br/><br/>
 Front end:
 <div style="vertical-align: middle;">
