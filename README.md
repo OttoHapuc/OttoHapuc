@@ -1,5 +1,8 @@
-<h1>Hello, world! 👽</h1>
-
+<h1>Hello, world!</h1>
+<head>
+  <style>
+  </style>
+</head>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=carlmnm&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&bg_color=151515&show_owner=true"/>
   <p>
