@@ -17,9 +17,8 @@
 
 <p>
   📣 Need to contact me? Find me here: <br/>
-  <a href="mailto:carlossmiguell3@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/carl.mnm/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/carlos-miguel-80513a1a1/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dossantoshapuc@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </p>
 
@@ -34,7 +33,6 @@
 <p>
   🔗 Do you want to contact me? So send me an <a href="mailto:dossantoshapuc@gmail.com">e-mail</a>!✨<br/>
   ⚡ You can also reach me on <a href="https://www.linkedin.com/in/ottoniel-hapuc-dos-santos-471659232/">linkedin</a><br/>
-  <img width="190" src="https://user-images.githubusercontent.com/62156288/201557954-99630b55-e9fe-47eb-b5ab-412af52cf810.gif"/>
 </p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
