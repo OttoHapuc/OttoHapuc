@@ -1,5 +1,5 @@
 <h1>Pleasure, this is me!</h1>
-
+<p>I am always seeking new challenges and opportunities to apply my skills and contribute to innovative projects. If you are looking for a motivated, committed, and results-oriented Full Stack developer, let's connect and explore potential collaborations!</p>
 <p>
   <p>
     <p>
